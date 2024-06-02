@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BarcodeReadJ</string>
+    <string name="btn_read_barcode">読取開始</string>
+    <string name="text_guide">ここに読取結果が表示されます。</string>
+    <string name="barcode_cancel">キャンセルされました。</string>
+    <string name="barcode_fail">読取に失敗しました。</string>
+</resources>
